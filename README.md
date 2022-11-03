@@ -24,4 +24,4 @@
 
 <p>Üleval on näha äärmiselt tähtsat tabelit kahe Eesti prominantse õlletootja peamise kange õlle (rahvekeeli pommi) kanguse vahel. Nagu tabelist näha on A le Coqi versioon kraadi võrra kangem. </p>
 
-<img src="(https://1.bp.blogspot.com/-FpPCAl5GPK4/WXkLYeTIskI/AAAAAAAAC98/WnvL7PlhZNg-P2K0hGGyaZmQIzFZpgOHwCLcBGAs/s1600/Bock.jpg)" alt="Bock">
+<img src="https://1.bp.blogspot.com/-FpPCAl5GPK4/WXkLYeTIskI/AAAAAAAAC98/WnvL7PlhZNg-P2K0hGGyaZmQIzFZpgOHwCLcBGAs/s1600/Bock.jpg" alt="Bock">
