@@ -26,4 +26,4 @@
 
 <img src="http://4.bp.blogspot.com/-KuQ4Eghig8A/T_IJ1gnDALI/AAAAAAAADwg/i8jVQGfIq9M/s1600/500010029.jpg" alt="Bock">
 
-<a href="https://taltech.ee">taltechi kodulehekülg</a>
+<a href="https://www.taltech.ee">taltechi kodulehekülg</a>
