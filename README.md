@@ -2,22 +2,22 @@
 
 <p>Tudengikood - 206464.</p>
 
-<h1>Ääretult tähtis tabel</h1>
+<h1>ääretult tähtis tabel</h1>
 
 <table>
   <tr>
-    <th>Firma</th>
-    <th>Mark</th>
-    <th>Kraad</th>
+    <th>firma</th>
+    <th>mark</th>
+    <th>kraad</th>
   </tr>
   <tr>
-    <td>A le Coq</td>
-    <td>Double Bock</td>
+    <td>a le Coq</td>
+    <td>double Bock</td>
     <td>7%</td>
   </tr>
   <tr>
-    <td>Saku</td>
-    <td>Taurus</td>
+    <td>saku</td>
+    <td>taurus</td>
     <td>6%</td>
   </tr>
 </table>
@@ -26,4 +26,4 @@
 
 <img src="http://4.bp.blogspot.com/-KuQ4Eghig8A/T_IJ1gnDALI/AAAAAAAADwg/i8jVQGfIq9M/s1600/500010029.jpg" alt="Bock">
 
-<a href="taltech.ee">Taltechi kodulehekülg</a>
+<a href="taltech.ee">taltechi kodulehekülg</a>
