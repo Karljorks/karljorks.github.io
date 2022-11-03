@@ -11,8 +11,8 @@
     <th>kraad</th>
   </tr>
   <tr>
-    <td>a le Coq</td>
-    <td>double Bock</td>
+    <td>a le coq</td>
+    <td>double bock</td>
     <td>7%</td>
   </tr>
   <tr>
@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-<p>Üleval on näha äärmiselt tähtsat tabelit kahe Eesti prominantse õlletootja peamise kange õlle (rahvekeeli pommi) kanguse vahel. Nagu tabelist näha on A le Coqi versioon kraadi võrra kangem. </p>
+<p>Üleval on näha äärmiselt tähtsat tabelit kahe Eesti prominantse õlletootja toodetest. Tabel toob välja erinevuse kahe peamise kange õlle (rahvekeeli pommi) kanguse vahel. Nagu tabelist näha on A le Coqi versioon kraadi võrra kangem. </p>
 
 <img src="http://4.bp.blogspot.com/-KuQ4Eghig8A/T_IJ1gnDALI/AAAAAAAADwg/i8jVQGfIq9M/s1600/500010029.jpg" alt="Bock">
 
