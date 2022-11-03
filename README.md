@@ -21,3 +21,7 @@
     <td>6%</td>
   </tr>
 </table>
+
+<p>Üleval on näha äärmiselt tähtsat tabelit kahe Eesti prominantse õlletootja peamise kange õlle (rahvekeeli pommi) kanguse vahel. Nagu tabelist näha on A le Coqi versioon kraadi võrra kangem. </p>
+
+<img src="img_girl.jpg" alt="Double Bock">
